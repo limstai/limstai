@@ -1,6 +1,6 @@
 # Oie, sou a Tainá Arruda!
 <div>
- <ul> 🧚🏼‍♀️ 25 anos, formada em Desgin de Moda. </ul>
+ <ul> 🧚🏼‍♀️ 25 anos, formada em Design de Moda. </ul>
  <ul> 👩🏼‍💻 Fatec - ADS.</ul>
  <ul> 🌱 Estudando Front-End. </ul>
  <ul> 😍 Apaixonada por desenvolvimento web. </ul> 
