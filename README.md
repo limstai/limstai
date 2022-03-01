@@ -1,10 +1,8 @@
 # Oie, sou a Tainá Arruda!
 <div>
- <ul> 🧚🏼‍♀️ 25 anos, formada em Design de Moda. </ul>
+Estudante de desenvolvimento web, entusiasta a UI/UX, apaixonada pelo front-end.
  <ul> 👩🏼‍💻 Fatec - ADS.</ul>
- <ul> 🌱 Estudando Front-End. </ul>
- <ul> 😍 Apaixonada por desenvolvimento web. </ul> 
- </div>
+  </div>
 <div>
 <a href="https://github.com/limstai">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limstai&layout=compact&langs_count=7&theme=dracula"/>
