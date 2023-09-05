@@ -1,6 +1,6 @@
 # Oie, sou a Tainá Arruda!
 <div>
-Estudante de desenvolvimento web, apaixonada pelo front-end e entusiasta a UI/UX.
+Estudante de Analise e desenvolvimento de sistemas e Banco de Dados, entusiasta a UI/UX.
  <ul> :seedling: Fatec - ADS</ul>
   </div>
 <div>
